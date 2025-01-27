@@ -1,0 +1,1 @@
+{"$schema":"https://intlayer.org/schema.json","key":"component-key","content":{"myTranslatedContent":{"nodeType":"translation","translation":{"en":"Hello World","fr":"Bonjour le monde","es":"Hola Mundo"}}},"filePath":"/Users/seaders/Desktop/intlayer/src/main.content.ts"}
